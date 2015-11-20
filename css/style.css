@@ -1,0 +1,33 @@
+.navbar{
+	margin-bottom: 0;
+}
+
+#sw-header{
+	color: #29B6F6;
+}
+
+body{
+	background: #212121;
+	color: #FFD600;
+	font-family: "Distant Galaxy";
+}
+
+h1, h2{
+	color: #FFD600;
+}
+
+p{
+	font-size: 16px;
+	color: #FFD600;
+}
+
+.jumbotron{
+	background: url(../img/background.jpg);
+	color: #FFD600;
+	text-align: center;
+}
+
+.jumbotron p{
+	color: #FFD600;
+	font-size: 26px;
+}
