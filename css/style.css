@@ -71,3 +71,7 @@ img{
 .img-responsive{
 	margin: 0 auto;
 }
+
+.darth, .c3, .bb, .storm, .fett, .r2{
+	display: none;
+}
