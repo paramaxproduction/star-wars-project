@@ -1,5 +1,11 @@
 $(document).ready(function(){
 
+	$(".startButton").click(function(){
+		$('html,body').animate({
+			scrollTop: $("#anchorMan").offset().top
+		}, 'slow');
+	});
+
 	$(".darthButton").click(function(){
 		$(".darth").slideToggle(1500);
 	});
